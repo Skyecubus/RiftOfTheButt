@@ -1,0 +1,13 @@
+D:\CodingProjects\C#\RiftOfTheButt\obj\Debug\netstandard2.1\RiftOfTheButt.csproj.AssemblyReference.cache
+D:\CodingProjects\C#\RiftOfTheButt\obj\Debug\netstandard2.1\MyPluginInfo.cs
+D:\CodingProjects\C#\RiftOfTheButt\obj\Debug\netstandard2.1\RiftOfTheButt.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingProjects\C#\RiftOfTheButt\obj\Debug\netstandard2.1\RiftOfTheButt.AssemblyInfoInputs.cache
+D:\CodingProjects\C#\RiftOfTheButt\obj\Debug\netstandard2.1\RiftOfTheButt.AssemblyInfo.cs
+D:\CodingProjects\C#\RiftOfTheButt\obj\Debug\netstandard2.1\RiftOfTheButt.csproj.CoreCompileInputs.cache
+D:\CodingProjects\C#\RiftOfTheButt\bin\Debug\netstandard2.1\RiftOfTheButt.deps.json
+D:\CodingProjects\C#\RiftOfTheButt\bin\Debug\netstandard2.1\RiftOfTheButt.dll
+D:\CodingProjects\C#\RiftOfTheButt\bin\Debug\netstandard2.1\RiftOfTheButt.pdb
+D:\CodingProjects\C#\RiftOfTheButt\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+D:\CodingProjects\C#\RiftOfTheButt\obj\Debug\netstandard2.1\RiftOfTh.0983AE73.Up2Date
+D:\CodingProjects\C#\RiftOfTheButt\obj\Debug\netstandard2.1\RiftOfTheButt.dll
+D:\CodingProjects\C#\RiftOfTheButt\obj\Debug\netstandard2.1\RiftOfTheButt.pdb
